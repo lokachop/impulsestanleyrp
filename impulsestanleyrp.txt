@@ -1,0 +1,6 @@
+"impulsestanleyrp"
+{
+	"base"		"impulse"
+	"title"		"impulse: Stanley Parable Roleplay"
+	"author"	"lokachop"
+}
